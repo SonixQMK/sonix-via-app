@@ -37,7 +37,7 @@
     "styled-components": "^5.3.5",
     "ts-node": "^10.4.0",
     "use-resize-observer": "^8.0.0",
-    "via-keyboards": "https://github.com/the-via/keyboards.git",
+    "via-keyboards": "https://github.com/SonixQMK/sonix-via-keyboards.git",
     "via-reader": "https://github.com/the-via/reader.git#3c659523c9e613ddd43420160873d6ed0a44b5f8"
   },
   "devDependencies": {
